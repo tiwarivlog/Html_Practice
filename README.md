@@ -1,52 +1,52 @@
 # Html_Practice 
-This repo mainly for practice purpose of HTML language and all topics has covered with source code.
-Section 1: Introduction to this course
-Section 2: Create First HTML File
-Section 3: Basic Structure of HTML
-Section 4: Doctype
-Section 5: Elements and Attribute
-Section 6: Indentation
-Section 7: HTML Comments
-Section 8: Headings
-Section 9: Paragraph
-Section 10: Formatting
-Section 11: Quotation and citation
-Section 12: HTML Links
-Section 13: Email Links
-Section 14: Images
-Section 15: Marquee
-Section 16: Ordered List
-Section 17: Unordered List
-Section 18: Description List
-Section 19: HTML Table
-Section 20: Nested Table
-Section 21: Div and Span
-Section 22: Iframe
-Section 23: HTML Audio
-Section 24: HTML Video
-Section 25: Embed PDF
-Section 26: Embed Youtube Video
-Section 27: Embed Google Maps
-Section 28: HTML Entities
-Section 29: HTML Symbols
-Section 30: Emojis in HTML
-Section 31: Semantic Elements
-Section 32: HTML Image Maps
-Section 33: HTML Forms
-Section 34: Form Input Types
-Section 35: Form File Upload
-Section 36: HTML Input Attribute
-Section 37: HTML Textarea and image button
-Section 38: Select Option
-Section 39: Radio Button
-Section 40: Checkbox
-Section 41: DataList
-Section 42: Label, Fieldset and legends
-Section 43: SEO Tags
-Section 44: Favicon
-Section 45: Style in head Tag
-Section 46: Script and no script
-Section 47: Open Graph and Twitter card Tag
-Section 48: Viewport Meta TAg
-Section 49: Right to Left Website
+This repo mainly for practice purpose <br>of HTML language and all topics has covered with source code.
+Section 1: Introduction to this course<br>
+Section 2: Create First HTML File<br>
+Section 3: Basic Structure of HTML<br>
+Section 4: Doctype<br>
+Section 5: Elements and Attribute<br>
+Section 6: Indentation<br>
+Section 7: HTML Comments<br>
+Section 8: Headings<br>
+Section 9: Paragraph<br>
+Section 10: Formatting<br>
+Section 11: Quotation and citation<br>
+Section 12: HTML Links<br>
+Section 13: Email Links<br>
+Section 14: Images<br>
+Section 15: Marquee<br>
+Section 16: Ordered List<br>
+Section 17: Unordered List<br>
+Section 18: Description List<br>
+Section 19: HTML Table<br>
+Section 20: Nested Table<br>
+Section 21: Div and Span<br>
+Section 22: Iframe<br>
+Section 23: HTML Audio<br>
+Section 24: HTML Video<br>
+Section 25: Embed PDF<br>
+Section 26: Embed Youtube Video<br>
+Section 27: Embed Google Maps<br>
+Section 28: HTML Entities<br>
+Section 29: HTML Symbols<br>
+Section 30: Emojis in HTML<br>
+Section 31: Semantic Elements<br>
+Section 32: HTML Image Maps<br>
+Section 33: HTML Forms<br>
+Section 34: Form Input Types<br>
+Section 35: Form File Upload<br>
+Section 36: HTML Input Attribute<br>
+Section 37: HTML Textarea and image button<br>
+Section 38: Select Option<br>
+Section 39: Radio Button<br>
+Section 40: Checkbox<br>
+Section 41: DataList<br>
+Section 42: Label, Fieldset and legends<br>
+Section 43: SEO Tags<br>
+Section 44: Favicon<br>
+Section 45: Style in head Tag<br>
+Section 46: Script and no script<br>
+Section 47: Open Graph and Twitter card Tag<br>
+Section 48: Viewport Meta TAg<br>
+Section 49: Right to Left Website<br>
 Section 50: W3c HTML Validation
