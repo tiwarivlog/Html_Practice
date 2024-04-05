@@ -1,5 +1,5 @@
 # Html_Practice 
-This repo mainly for practice purpose <br>of HTML language and all topics has covered with source code.
+This repo mainly for practice purpose <br>of HTML language and all topics has covered with source code. <br>
 Section 1: Introduction to this course<br>
 Section 2: Create First HTML File<br>
 Section 3: Basic Structure of HTML<br>
